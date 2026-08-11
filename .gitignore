@@ -1,0 +1,16 @@
+# Root dependencies
+node_modules/
+
+# Environment files (Prevents leaking API keys & DB URIs)
+.env
+.env.local
+.env.*
+
+# Build outputs
+dist/
+build/
+
+# System & Editor files
+.DS_Store
+.vscode/
+.idea/
