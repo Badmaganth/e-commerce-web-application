@@ -69,7 +69,7 @@ While working on this project, I gained practical experience with React.js, REST
 
 ## Author
 
-**J. Badmaganth**
+**J Badmaganth**
 
 - GitHub: https://github.com/Badmaganth
 - LinkedIn: https://www.linkedin.com/in/j-badmaganth-262001292
